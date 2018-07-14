@@ -1,0 +1,37 @@
+{
+	"countries":
+	[
+		{"name": "Uruguay", "emoji": "🇺🇾", "odds": "65"},
+		{"name": "Russia", "emoji": "🇷🇺", "odds": "45"},
+		{"name": "Saudi Arabia", "emoji": "🇸🇦", "odds": "15"},
+		{"name": "Egypt", "emoji": "🇪🇬", "odds": "25"},
+		{"name": "Spain", "emoji": "🇪🇸", "odds": "80"},
+		{"name": "Portugal", "emoji": "🇵🇹", "odds": "65"},
+		{"name": "Iran", "emoji": "🇮🇷", "odds": "30"},
+		{"name": "Morocco", "emoji": "🇲🇦", "odds": "30"},
+		{"name": "France", "emoji": "🇫🇷", "odds": "80"},
+		{"name": "Denmark", "emoji": "🇩🇰", "odds": "40"},
+		{"name": "Peru", "emoji": "🇵🇪", "odds": "45"},
+		{"name": "Australia", "emoji": "🇦🇺", "odds": "30"},
+		{"name": "Croatia", "emoji": "🇭🇷", "odds": "75"},
+		{"name": "Argentina", "emoji": "🇦🇷", "odds": "70"},
+		{"name": "Nigeria", "emoji": "🇳🇬", "odds": "20"},
+		{"name": "Iceland", "emoji": "🇮🇸", "odds": "35"},
+		{"name": "Brazil", "emoji": "🇧🇷", "odds": "85"},
+		{"name": "Switzerland", "emoji": "🇨🇭", "odds": "45"},
+		{"name": "Serbia", "emoji": "🇷🇸", "odds": "35"},
+		{"name": "Costa Rica", "emoji": "🇨🇷", "odds": "20"},
+		{"name": "Sweden", "emoji": "🇸🇪", "odds": "30"},
+		{"name": "Mexico", "emoji": "🇲🇽", "odds": "35"},
+		{"name": "South Korea", "emoji": "🇰🇷", "odds": "25"},
+		{"name": "Germany", "emoji": "🇩🇪", "odds": "80"},
+		{"name": "England", "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "odds": "75"},
+		{"name": "Belgium", "emoji": "🇧🇪", "odds": "75"},
+		{"name": "Tunisia", "emoji": "🇹🇳", "odds": "15"},
+		{"name": "Panama", "emoji": "🇵🇦", "odds": "10"},
+		{"name": "Japan", "emoji": "🇯🇵", "odds": "25"},
+		{"name": "Senegal", "emoji": "🇸🇳", "odds": "40"},
+		{"name": "Colombia", "emoji": "🇨🇴", "odds": "60"},
+		{"name": "Poland", "emoji": "🇵🇱", "odds": "40"}
+	]
+}

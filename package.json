@@ -1,0 +1,16 @@
+{
+  "name": "worldcup_twitterbot",
+  "version": "1.0.0",
+  "description": "World Cup 2018 match results predictor",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diogo Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "twit": "^2.2.10"
+  }
+}
