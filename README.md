@@ -1,6 +1,6 @@
 # World-Cup-2018-Predictor-bot
 
-## Twitter bot predicting FIFA World Cup Russia 2018 Matches (winners/ties and scores)
+## Twitter bot predicts FIFA World Cup Russia 2018 Matches (winners/ties and scores)
 
 ### https://twitter.com/Cup2018Bot
 
