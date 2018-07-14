@@ -16,6 +16,10 @@
 
 If you want to try it for yourself you need to install git, node.js, twit.js and curl.js
 
+### Uses a JSON file available in the following link
+
+https://github.com/openfootball/world-cup.json
+
 
 ### Deployed to / Hosted by Heroku
 
